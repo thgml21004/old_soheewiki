@@ -1,0 +1,76 @@
+
+
+[   
+      
+  {
+  "tag" : "IA",
+  "posts" : [
+      
+      "./design_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "UI",
+  "posts" : [
+      
+      "./plan_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "UX",
+  "posts" : [
+      
+      "./plan_post1.html",
+      
+      "./design_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "design",
+  "posts" : [
+      
+      "./design_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "기획",
+  "posts" : [
+      
+      "./plan_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "앱",
+  "posts" : [
+      
+      "./plan_post1.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "정보 아키텍처",
+  "posts" : [
+      
+      "./design_post1.html"
+      
+    ]
+  } 
+    
+]
